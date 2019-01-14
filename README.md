@@ -22,3 +22,23 @@ and then download the nessecesary corpora:
 import nltk
 nltk.download()
 ```
+
+Examples of outputs:
+---------
+ - The five most common bigrams and trigram POS tags:
+ For example, one of the most common bigram pos tags is (NN, IN) (as in "The **people in** America")
+ Another example is the trigram (DT, NN, IN) (as in "the **constitution of the**")
+![picture](Img/most_common_bi_tri_pos_tags.png)
+
+- The five most common unigram and bigram POS tags, for each American president:
+![picture](Img/most_common_pos_Tags_by_president.png)
+
+- The change in the use of different pos tags over the years:
+We can see an increase in the use of more PERSON NE's in the last copule of years. This can indicate on political views change.
+![picture](Img/NE_freq_over_years.png)
+
+ - The change in the use of the entitiy **"American"** over the years:
+ Again, we see an increse in the use of this unigram as a political named entity. This can clearrly be notice in president Trump's addressed, when he says - "believe, once more, in America".
+![picture](Img/GPE_American_freq_over_years.png)
+
+
