@@ -38,7 +38,9 @@ We can see an increase in the use of more PERSON NE's in the last copule of year
 ![picture](Img/NE_freq_over_years.png)
 
  - The change in the use of the entitiy **"American"** over the years:
- Again, we see an increse in the use of this unigram as a political named entity. This can clearrly be notice in president Trump's addressed, when he says - "believe, once more, in America".
+ Again, we see an increse in the use of this unigram as a political named entity. 
+ This can clearrly be notice in president Trump's addressed, when he says - "believe, once more, in America".
+ 
 ![picture](Img/GPE_American_freq_over_years.png)
 
 
